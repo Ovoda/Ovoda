@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Inception
-- 🌱 I’m currently learning Docker/Docker-Compose
+- 🔭 I’m currently working on ft_containers (Containers from C++ STL)
+- 🌱 I’m currently learning C++
 - 💬 Ask me about anything
 - 📫 How to reach me: calixtedetourris@gmail.com
 
