@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/calixte-de-tourris/](https://www.linkedin.com/in/calixte-de-tourris/)
 
-- ⚡ Fun fact **I spend more time fighting with React than my gf**
+- ⚡ Fun fact **I spend more time fighting with React than with my gf**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
