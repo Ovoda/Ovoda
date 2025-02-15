@@ -1,18 +1,12 @@
 <h1 align="center">Hi 👋, I'm Calixte</h1>
 
-- 🔭 I’m currently working on [Starton.io](https://www.starton.io/)
+- 🔭 I’m currently working on [Muzisecur.fr](https://app.muzisecur.fr/)
 
-- 🌱 I’m currently learning **ReactJS, NextJS, Typescript, Unity3D & more...**
+- 💬 Ask me about **React or NextJS**
 
-- 👯 I’m looking to collaborate on [Speedtyper.dev](https://github.com/codicocodes/speedtyper.dev)
-
-- 💬 Ask me about **React or Next :)**
-
-- 📫 How to reach me **calixte@starton.io**
+- 📫 How to reach me **calixte.dndt@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/calixte-de-tourris/](https://www.linkedin.com/in/calixte-de-tourris/)
-
-- ⚡ Fun fact **I spend more time fighting with React than with my gf**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
